@@ -1,2 +1,8 @@
 # bitwarden
 DOMAIN-KEYWORD,bitwarden
+
+# apple
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,icloud.com.cn
