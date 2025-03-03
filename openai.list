@@ -1,5 +1,5 @@
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
-PROCESS-NAME,ChatGPT,PROXY
-PROCESS-NAME,chatgpt.ext,PROXY
+PROCESS-NAME,ChatGPT
+PROCESS-NAME,chatgpt.exe
