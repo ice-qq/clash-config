@@ -4,3 +4,8 @@ DOMAIN-KEYWORD,bitwarden
 # apple
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.com
+
+# window
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,windowsupdate.microsoft.com
+DOMAIN-SUFFIX,update.microsoft.com
